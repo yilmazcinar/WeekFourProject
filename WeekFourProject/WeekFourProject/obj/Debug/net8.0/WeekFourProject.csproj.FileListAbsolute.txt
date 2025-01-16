@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\WeekFourProject\WeekFourProject\bin\Debug\net8.0\WeekFourProject.exe
+C:\Users\caplo\source\repos\WeekFourProject\WeekFourProject\bin\Debug\net8.0\WeekFourProject.deps.json
+C:\Users\caplo\source\repos\WeekFourProject\WeekFourProject\bin\Debug\net8.0\WeekFourProject.runtimeconfig.json
+C:\Users\caplo\source\repos\WeekFourProject\WeekFourProject\bin\Debug\net8.0\WeekFourProject.dll
+C:\Users\caplo\source\repos\WeekFourProject\WeekFourProject\bin\Debug\net8.0\WeekFourProject.pdb
+C:\Users\caplo\source\repos\WeekFourProject\WeekFourProject\obj\Debug\net8.0\WeekFourProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\WeekFourProject\WeekFourProject\obj\Debug\net8.0\WeekFourProject.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\WeekFourProject\WeekFourProject\obj\Debug\net8.0\WeekFourProject.AssemblyInfo.cs
+C:\Users\caplo\source\repos\WeekFourProject\WeekFourProject\obj\Debug\net8.0\WeekFourProject.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\WeekFourProject\WeekFourProject\obj\Debug\net8.0\WeekFourProject.dll
+C:\Users\caplo\source\repos\WeekFourProject\WeekFourProject\obj\Debug\net8.0\refint\WeekFourProject.dll
+C:\Users\caplo\source\repos\WeekFourProject\WeekFourProject\obj\Debug\net8.0\WeekFourProject.pdb
+C:\Users\caplo\source\repos\WeekFourProject\WeekFourProject\obj\Debug\net8.0\WeekFourProject.genruntimeconfig.cache
+C:\Users\caplo\source\repos\WeekFourProject\WeekFourProject\obj\Debug\net8.0\ref\WeekFourProject.dll
